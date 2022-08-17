@@ -1,0 +1,14 @@
+:root{
+  /* -------------------------------- Colors -------------------------------- */
+  /* Color variables used in components and pages */
+  /* e.g.: --bg-color: white; */
+
+  /* -------------------------------- Fonts --------------------------------- */
+  /* Fonts should be declared in fonts.css and associated to variables here */
+  /* Example: --header-font: 'OpenSans ExtraBold'; */
+
+  /* -------------------------------- Layout -------------------------------- */
+  /* Layout variables to be used globally, such as max-width, gutter, etc. */
+  /* e.g: --max-width: 1024px; */
+
+}

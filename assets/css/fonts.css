@@ -1,0 +1,13 @@
+/* Import custom application fonts here */
+
+/* 
+Example:
+
+@font-face{
+  font-family: 'OpenSans Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('@/assets/fonts/OpenSans-Regular.woff2') format('woff2'), 
+    url('@/assets/fonts/OpenSans-Regular.woff') format('woff');
+} 
+*/
